@@ -1,2 +1,2 @@
 # ex_token
-test
+test tokennomic
