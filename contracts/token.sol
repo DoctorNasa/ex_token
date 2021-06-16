@@ -5,13 +5,12 @@
 
     Features:
 
-    10% fees per transaction
-    - 4% fee per transaction : auto add to the liquidity pool
-    - 4% fee per transaction : allocate to STT stakers
-    - 1% fee per transaction : burn to dead wallet
+    5% fees per transaction
+    - 1% fee per transaction : auto add to the liquidity pool
+    - 3% fee per transaction : allocate to STT stakers
     - 1% fee per transaction : marketing and operational expenses
 
-    100,000,000 total supply
+    1,000,000,000 total supply
 
 */
 
